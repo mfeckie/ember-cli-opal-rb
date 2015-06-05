@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-opal-rb",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Add Opal.rb to your Ember project",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/mfeckie/ember-cli-opal-rb",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "mfeckie@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
