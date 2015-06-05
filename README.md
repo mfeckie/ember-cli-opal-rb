@@ -1,13 +1,12 @@
 # Ember-cli-opal-rb
 
-This README outlines the details of collaborating on this Ember addon.
+[Opal.rb](http://opalrb.org/) is a Ruby to JavaScript compiler.
+
+This addon simply includes Opal in your build pipeline.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
-
+`ember install ember-cli-opal-rd`
 ## Running
 
 * `ember server`
@@ -17,9 +16,3 @@ This README outlines the details of collaborating on this Ember addon.
 
 * `ember test`
 * `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
