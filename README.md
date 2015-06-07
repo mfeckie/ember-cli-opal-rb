@@ -16,7 +16,7 @@ There are only really two methods exposed `compileRuby` and `run`
 
 Here's an example of there usage.
 
-```
+```js
 import Ember from 'ember';
 
 export default Ember.Component.extend({
